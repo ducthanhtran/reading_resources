@@ -8,7 +8,8 @@
 * [John Langford: Machine Learning (Theory)](http://hunch.net)
 
 ### Natural Language Processing
-* [Hal Daumé III.: Natural Language Processing Blog](https://nlpers.blogspot.com)
+* [Hal Daumé III.'s Blog](https://nlpers.blogspot.com)
+* [Sebastian Ruder's Blog](http://ruder.io)
 
 ## Computer Science
 * [Michael Mitzenmacher: My Biased Coin](http://mybiasedcoin.blogspot.com)
